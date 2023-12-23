@@ -98,7 +98,7 @@ const Page = () => {
         </Button>
       </Form>
       <hr />
-      <div className='justify-center bg-slate-600 m-4 p-4 rounded'>
+      <div className='justify-center bg-red-600 m-4 p-4 rounded'>
         <ul>
           {rendertask}
         </ul>
