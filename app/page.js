@@ -1,5 +1,5 @@
 "use client"
-import Navbar from '@/cmponents/Navbar'
+import Navbar from '@/Components/Navbar'
 import Head from 'next/head';
 import React, { useState } from 'react'
 import Button from 'react-bootstrap/Button';
